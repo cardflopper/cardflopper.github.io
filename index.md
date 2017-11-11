@@ -1,5 +1,5 @@
 a funny story from comic.thoughtshake.com
 
-![test page](testpage)
+[test page](testpage)
 
-![acid](images/acid.png "acid")
+[acid](images/acid.png "acid")
