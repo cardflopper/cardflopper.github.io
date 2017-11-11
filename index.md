@@ -1,1 +1,1 @@
-![](images/acid.png?raw=true)
+![acid](images/acid.png "acid")
