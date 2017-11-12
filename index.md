@@ -1,4 +1,4 @@
-a funny story from comic.thoughtshake.com
+a funny story from comic.thoughtshake.com: [acid](images/acid.png "acid")
 
 [test page](testpage)
 
@@ -6,5 +6,5 @@ a funny story from comic.thoughtshake.com
 
 [test folder page](testfolder)
 
-[acid](images/acid.png "acid")
+
 
