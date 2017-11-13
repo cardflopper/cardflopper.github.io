@@ -56,7 +56,7 @@ During each player’s turn in a round, combat cards are played below their corr
 
 ## Checking for Elimination
 
-If, at the end of a player's turn, all remaining creatures have a combat or spectator card played on them in the current combat row, and if there is a creature with a single lowest combat value in that combat row, then this creature is eliminated from the tournament. When a creature is eliminated, turn the eliminated creature card face down. Then begin a new combat row below the previous combat row and start a new round. At the end of the game, you will usually have a total of 6 rows of cards (the row of creature cards, and one row of combat cards for each of the 5 rounds of play below that. See the end of these rules for an example of what the playing area might look like at the end of a game.)
+If, at the end of a player's turn, all remaining creatures have a combat or spectator card played on them in the current combat row, and if there is a creature with a single lowest combat value in that combat row, then this creature is eliminated from the tournament. When a creature is eliminated, turn the eliminated creature card face down. Then begin a new combat row below the previous combat row and start a new round. At the end of the game, you will usually have a total of 6 rows of cards (the row of creature cards, and one row of combat cards for each of the 5 rounds of play below that. ~~See the end of these rules for an example of what the playing area might look like at the end of a game.)~~
 
 ## Bet Values
 
@@ -111,7 +111,7 @@ To place a normal bet, place 1 of your 5 bet tokens in your chosen creature’s 
 
 ### Placing a Secret Bet
 
-To place a secret bet, choose a combat card from your hand that corresponds to the creature you wish to bet on. Place it face down in front of you, then place one of your bet tokens on top of it. For example, if you have the Magus’s combat 3 card in your hand, you may place it face down in front of you with one of your bet tokens on top of it to make a secret bet on the Magus’. The combat card is used only to indicate which creature you are placing your secret bet on and it is discarded if you later reveal your secret bet. If a secret bet pays out at the end of the game, it is worth 5 gold. Keep in mind the following restrictions regarding secret bets:
+To place a secret bet, choose a combat card from your hand that corresponds to the creature you wish to bet on. Place it face down in front of you, then place one of your bet tokens on top of it. For example, if you have the Magus’s combat 3 card in your hand, you may place it face down in front of you with one of your bet tokens on top of it to make a secret bet on the Magus. The combat card is used only to indicate which creature you are placing your secret bet on and it is discarded if you later reveal your secret bet. If a secret bet pays out at the end of the game, it is worth 5 gold. Keep in mind the following restrictions regarding secret bets:
 
 * You may only make 1 secret bet per game.
 * You may only make a secret bet during the first round of the game. After a creature has been eliminated, no further secret bets may be made.
@@ -155,7 +155,9 @@ The creature powers are described in detail later on, but there are several rule
 
 ### Playing a Spectator Card
 
-When you play a spectator card, place it in the current combat row in the same column as any surviving creature of your choice (as if the spectator card were a combat card depicting that creature.) However, playing a spectator card cannot activate a creature’s special power. In fact, a combat card that is played on a spectator card cannot activate a creature’s special power either! Example: Scott plays a spectator on the Magus, covering up its current combat card. On the next turn, Will (who is the Magus’s backer) plays a Magus combat card on the Magus, covering up the spectator. Because the Magus combat card was used to cover a spectator, Will cannot activate the Magus’ special power!
+When you play a spectator card, place it in the current combat row in the same column as any surviving creature of your choice (as if the spectator card were a combat card depicting that creature.) However, playing a spectator card cannot activate a creature’s special power. In fact, a combat card that is played on a spectator card cannot activate a creature’s special power either!
+
+> _**Example**: Scott plays a spectator on the Magus, covering up its current combat card. On the next turn, Will (who is the Magus’s backer) plays a Magus combat card on the Magus, covering up the spectator. Because the Magus combat card was used to cover a spectator, Will cannot activate the Magus’ special power!_
 
 ### Playing a Referee Card
 
