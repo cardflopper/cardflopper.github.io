@@ -10,6 +10,7 @@ tags:
 information:
   player-count: 2-5
   play-time: 40-60 minutes
+  designer: Reiner Knizia
 ---
 
 # INTRODUCTION
