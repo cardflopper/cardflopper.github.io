@@ -1,3 +1,17 @@
+---
+title: Colossal Arena
+source: https://images-cdn.fantasyflightgames.com/filer_public/d8/e5/d8e5298a-2db3-482b-8c92-18cdfd3ee527/colossalarenarules.pdf
+tags:
+  - card-game
+  - hand-management
+  - variable-powers
+  - betting
+  - commodity-speculation
+information:
+  player-count: 2-5
+  play-time: 40-60 minutes
+---
+
 # SETUP
 
 1. Each player is assigned a color and takes the 5 bet tokens of that color.
@@ -42,10 +56,10 @@ A creature’s backer is the player who has placed the most valuable bets (as me
 
 Each player’s turn consists of four phases:
 
-Phase 1: Place a Bet
-Phase 2: Play a Card
-Phase 3: Discard and Draw Cards
-Phase 4: Check for Creature Elimination
+1) Phase 1: Place a Bet
+2) Phase 2: Play a Card
+3) Phase 3: Discard and Draw Cards
+4) Phase 4: Check for Creature Elimination
 
 Important: If you place a secret bet in phase 1, then you skip phase 2.
 
@@ -114,7 +128,7 @@ When you play a combat card, place it in the current combat row in the same colu
 
 When you play a spectator card, place it in the current combat row in the same column as any surviving creature of your choice (as if the spectator card were a combat card depicting that creature.) However, playing a spectator card cannot activate a creature’s special power. In fact, a combat card that is played on a spectator card cannot activate a creature’s special power either! Example: Scott plays a spectator on the Magus, covering up its current combat card. On the next turn, Will (who is the Magus’s backer) plays a Magus combat card on the Magus, covering up the spectator. Because the Magus combat card was used to cover a spectator, Will cannot activate the Magus’ special power!
 
-### Playing a Referee or Prefect Card
+### Playing a Referee Card
 
 When you play a referee card, follow the directions on the card and then place it in the discard pile. There are two kinds of referee cards: the two Prefects, and the Magister. When you play the Magister card, choose a surviving creature. Any players who have made secret bets on that creature must immediately reveal their secret bets. This may result in the sudden change of the creature’s backer. (Remember, revealed secret bets are worth 5 gold.) When you play a Prefect card, you may pick up any visible combat card and put it in your hand. This includes any combat card that is on top of any pile in the current combat row or any combat row from a previous round.
 
