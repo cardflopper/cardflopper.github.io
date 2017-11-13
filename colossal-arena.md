@@ -88,6 +88,7 @@ To place a normal bet, place 1 of your 5 bet tokens in your chosen creature’s 
 ### Placing a Secret Bet
 
 To place a secret bet, choose a combat card from your hand that corresponds to the creature you wish to bet on. Place it face down in front of you, then place one of your bet tokens on top of it. For example, if you have the Magus’s combat 3 card in your hand, you may place it face down in front of you with one of your bet tokens on top of it to make a secret bet on the Magus’. The combat card is used only to indicate which creature you are placing your secret bet on and it is discarded if you later reveal your secret bet. If a secret bet pays out at the end of the game, it is worth 5 gold. Keep in mind the following restrictions regarding secret bets:
+
 * You may only make 1 secret bet per game.
 * You may only make a secret bet during the first round of the game. After a creature has been eliminated, no further secret bets may be made.
 * You do not play a card on the turn in which you make a secret bet. (That is, you skip phase 2 of your turn.)
@@ -114,11 +115,15 @@ OR
 
 * Pass: To pass, you must show your hand to the other players to prove that you have no playable cards.
 
-Note: Remember that you cannot play a card in the same turn that you make your secret bet.
+> _**Note**: Remember that you cannot play a card in the same turn that you make your secret bet._
 
 ### Playing a Combat Card
 
-When you play a combat card, place it in the current combat row in the same column as the creature depicted on the card. You may not play combat cards depicting eliminated creatures. If there is already a card in that position, cover it up completely with the new card—the old card is overridden and players may not look at it while it is covered by another card. Note: Players can only play combat and spectator cards on creatures that have not yet been eliminated. Additionally, when you play a combat card on a creature, if you are that creature’s backer, you may immediately use the creature’s special power. The creature powers are described in detail later on, but there are several rules that apply to all of them:
+When you play a combat card, place it in the current combat row in the same column as the creature depicted on the card. You may not play combat cards depicting eliminated creatures. If there is already a card in that position, cover it up completely with the new card—the old card is overridden and players may not look at it while it is covered by another card.
+
+> _**Note**: Players can only play combat and spectator cards on creatures that have not yet been eliminated. Additionally, when you play a combat card on a creature, if you are that creature’s backer, you may immediately use the creature’s special power._
+
+The creature powers are described in detail later on, but there are several rules that apply to all of them:
 
 * The creatures’ special powers break the rules. Any time a special power conflicts with a rule, the special power takes precedence.
 * A creature’s special power can only be used by its backer. No other player has access to it.
@@ -150,5 +155,45 @@ The game ends either at the end of the 5th round of play or the moment that the 
 
 # DEAL MAKING
 
-Players are free to make deals with the other players, but these aren’t binding. In addition, a player cannot show any of his cards to another player unless forced to by the rules, such as when discarding in phase 3 or through the use of a
-creature’s special powe
+Players are free to make deals with the other players, but these aren’t binding. In addition, a player cannot show any of his cards to another player unless forced to by the rules, such as when discarding in phase 3 or through the use of a creature’s special power.
+
+# CREATURE POWERS
+
+## Amazon (Scouting)
+When you activate the Amazon’s special power, you may choose to draw 3 cards (no more, no less) from the draw deck and add them to your hand. If you draw the last card in the draw deck by activating this power, the game immediately ends.
+
+## Colossus (Endurance)
+When you activate the Colossus’ special power, you may choose and retrieve one of your bet tokens as though you had never bet it in the first place. You may even retrieve tokens that were placed on creatures that were eliminated! If you retrieve a bet token attached to your secret bet, discard the attached strength card.
+
+## Cyclops (Stunning Blow)
+When you activate the Cyclops’ special power, you may choose another player. Randomly draw half (rounded up) of that player’s cards from his hand and set them face down in front of him without looking at them. The player cannot use those cards in any way on his next turn. He must return them to his hand during phase 3 of his turn, after discarding cards but before refilling his hand to 8 cards.
+
+## Daimon (Wealth)
+
+When you activate the Daimon’s special power, you may immediately place one bet on any creature in any combat row that does not already have a bet there, including previous combat rows. For instance, if it is currently the 4th round, you may place a bet on the Unicorn in the 1st combat row if there isn’t already a bet token there. This bet’s value is 4 gold, just as if it had been placed during the 1st round. You cannot place a secret bet with this power.
+
+## Ettin (Multiple Heads)
+When you activate the Ettin’s special power, you may immediately play a second card as though you had an additional phase 2 this turn. You may not activate the Ettin’s special ability more than once per turn.
+
+## Gorgon (Stone Gaze)
+
+When you activate the Gorgon’s special power, you may pick any one other player and name a creature that has not yet been eliminated. That player must give you one combat card depicting that creature if he has one. If he does not, he must show you his hand to prove it. You may not tell the other players the contents of that player’s hand. The player cannot give you a card that has been placed face down
+due to the Cyclops’ special power, and does not show you the face down cards.
+
+## Magus (Foresight)
+When you activate the Magus’s special power, it does not take effect until phase 3 of your turn. However, during phase 3 of your turn, you may discard combat cards depicting surviving creatures as well as those depicting creatures that have been eliminated. Also, you do not have to show each card to the other players. Instead, you may stack all of the cards you are discarding for the turn on top of each other and place the stack on top of the discard pile, face up. You are still limited to discarding no more than 3 cards, however.
+
+## Seraphim (Clarion Call)
+When you activate the Seraphim’s special power, you may choose another creature that has been eliminated and immediately activate its special power. You can only use this ability on creatures that have been eliminated so far this game, not on the four creatures set aside before the game started.
+
+## Titan (Steal)
+When you activate the Titan’s special power, you may choose another player who has at least 3 cards in his hand. Draw 3 cards from that player’s hand and look at them, keep 1 card of your choice, and return the other 2 to the player without showing them to anyone else. You may tell the other players what the cards were, but you cannot show them the cards. You cannot draw from cards that have been placed face down due to the Cyclops’ special power.
+
+## Troll (Regeneration)
+When you activate the Troll’s special power, you may pick up one visible combat card depicting the Troll from a previous combat row and add it to your hand.
+
+## Unicorn (Teleportation)
+When you activate the Unicorn’s special power, you may swap any two visible combat cards depicting the same creature (even the Unicorn). For example, if the Wyrm currently has a strength 4 combat card, but has a strength 8 combat card showing in the previous combat row, you can swap the two cards, moving the strength 8 combat card to the current combat row, and sending the strength 4 combat card back to the previous combat row.
+
+## Wyrm (Fiery Breath)
+When you activate the Wyrm’s special power, you may discard any one visible combat or spectator card from any other creature in the current combat row. Any card revealed through this ability’s use is now the top card for that creature. Once you pick up a card to discard it, you cannot change your mind.
