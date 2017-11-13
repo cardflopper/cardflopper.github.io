@@ -12,6 +12,30 @@ information:
   play-time: 40-60 minutes
 ---
 
+# INTRODUCTION
+
+Welcome to the Colossal Arena! Today, for your amusement, eight fierce creatures will battle each other in a five round tournament. You have come to the arena to
+wager your hard-earned gold on these gladiators in the hopes of winning a fortune. Bet early and bet often to back your favorite creature, because wagers are worth
+less and less as the competitors are eliminated. In the end, only three creatures will survive...will they be the ones you backed?
+
+In Colossal Arena, 2-5 players take on the role of fans at the colossal arena wagering on monstrous gladiators. The fan who leaves the arena with the most
+gold at the end of the tournament is the winner!
+
+## Object of the Game
+Win the most gold by betting on creatures that make it through the tournament. The earlier a bet is placed, the more valuable it is. Beware, however, for betting heavily on a creature
+early in the tournament increases the odds that it will be eliminated by your opponents. At the end of the game, the player whose bets are worth the most gold is the winner.
+
+## Components 
+* Creature Cards: These 12 red-backed cards represent the creatures that will fight in the tournament. Each creature has a special power that is activated
+whenever its backer (explained below) plays a combat card on the creature.
+* Combat Cards: These 132 blue-backed cards are used to represent the battle between the creatures. Each of the 12 creatures has a set of 11 combat cards
+numbered 0-10. The number on a combat card is its strength.
+* Spectator Cards: These 11 blue-backed cards represent crazed spectators who have leapt into the arena to fight for their favorite creature. Their strength
+ranges from 0-10, like combat cards, and they momentarily void the special powers of any creatures they are played on (as explained later in these rules).
+* Referee Cards: These 3 blue-backed cards represent the tournament referees. They do various things when played, as explained later in these rules.
+* Bet Tokens: These 25 round plastic tokens (5 in each of 5 colors) are used to place bets on the creatures fighting in the tournament. The earlier in the game a bet is placed,
+the more it is worth if the creature it’s placed on makes it through the tournament.
+
 # SETUP
 
 1. Each player is assigned a color and takes the 5 bet tokens of that color.
