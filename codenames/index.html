@@ -1,0 +1,135 @@
+<html>
+  <head>
+    
+    <style>
+	  html{height:100%;}
+	  body{height:100%;margin:0;padding:0;font-family: 'Arial Narrow', Arial, sans-serif;background-color:grey;}
+	  
+	  #container{height:100%;background-color:green;}
+	  
+	  #grid{
+	    border-collapse:collapse;
+	    border:0px solid black;
+	    font-size:3vw;
+	    font-weight:bold;
+	    width:100%;
+	    height:86%;
+	    text-align:center;
+	  }
+	  
+	  #score{
+	    font-size:4vw;text-align:center;
+	    border-collapse:collapse;
+	    width:100%;height:13%;
+		background-color:black;
+		margin-bottom:1%;
+	  }
+	  
+	  #score td{width:50%;}
+	  
+	  #grid td{width:20%;}
+	  .word{background-color:grey;}
+	  .blue-team{background-color:blue;color:white;}
+	  .red-team{background-color:red;}
+	  .bystander{background-color:#E1C46C;}
+	  .assassin{ background-color:black;color:red;}
+	  .blue-team,.red-team,.bystander{xtext-decoration:line-through;}
+	  
+	  * {
+	  
+		-webkit-touch-callout: none;
+		-webkit-user-select: none;
+		-khtml-user-select: none;
+		-moz-user-select: none;
+		-ms-user-select: none;
+		user-select: none;
+	  }
+	</style>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+	<script type="text/javscript">
+	
+	
+	
+	
+	</script>
+  </head>
+  <body>
+    <div id="container">
+      <table border="1" cellpadding="0" cellspacing="0" id="score">
+	    <tr>
+		  <td class="red-team"><span class="score">-</span> remaining of <span class="total">-</span></td>
+		  <td class="blue-team"><span class="score">-</span> remaining of <span class="total">-</span></td>
+		</tr>
+	  </table>
+      <table border="1" cellpadding="0" id="grid"><table>
+	</div>
+  </body>
+  <script src="words.js"></script>
+  <script>
+  function random_int(min,max)
+	{
+      return Math.floor(Math.random()*(max-min+1)+min);
+	}
+  function update_score(){
+	  $('#score .red-team .score').text($('#score .red-team .total').text()-$('#grid .red-team').length);
+      $('#score .blue-team .score').text($('#score .blue-team .total').text()-$('#grid .blue-team').length);
+	}
+	
+    var n;	
+		
+	var temp = [];
+	for(var i=0;i<25;i++){
+	  do{
+	    var r = random_int(0,words.length-1);
+	  }while(temp.indexOf(r) != -1);
+	  temp.push(r);
+	}
+	
+		var count = 0;
+	for(var row=0;row<5;row++){
+	  var tr = $('<tr>');
+      for(var col=0;col<5 && count<25;col++){
+        n = random_int(0,words.length-1);
+	    
+	    var td = $('<td class="word">').append(words[temp[count]]);
+	    tr.append(td);
+		count++;
+      }
+	  $('#grid').append(tr);
+	}
+	
+	
+	var first = confirm('red first = OK, blue first = CANCEL');
+	$('#score .red-team .total,.blue-team .total').text('8');
+	
+	if(first){
+	  $('#score .red-team .total').text('9');
+	}
+	else{
+	  $('#score .blue-team .total').text('9');
+	}
+	update_score();
+	
+
+	
+	
+	$('.word').on('click',function(){
+		if($(this).hasClass('red-team')){
+		  $(this).removeClass('red-team').addClass('blue-team');
+		}
+		else if($(this).hasClass('blue-team')){
+		  $(this).removeClass('blue-team').addClass('bystander');
+		}
+		else if($(this).hasClass('bystander')){
+		  $(this).removeClass('bystander').addClass('assassin');
+		}
+		else if($(this).hasClass('assassin')){
+		  $(this).removeClass('assassin');
+		}
+		else{
+		  $(this).addClass('red-team');
+		}
+		update_score();
+	});
+  </script>
+</html>
