@@ -1,10 +1,10 @@
-##Links
+## Links
 
 [boardgamegeek profile](https://www.boardgamegeek.com/user/cardflopper)
 
-##Play
+## Play
 
 [codenames](codenames)
 
-##Files
+## Files
 [codenames word list](codenames/word_list.txt)
