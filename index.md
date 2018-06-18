@@ -1,3 +1,1 @@
-## Welcome to my webpage
-
-[about](about)
+[boardgamegeek profile](https://www.boardgamegeek.com/user/cardflopper)
