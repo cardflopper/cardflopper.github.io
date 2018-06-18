@@ -7,4 +7,4 @@
 [codenames](codenames)
 
 ## Files
-[codenames word list](codenames/word_list.txt)
+[codenames word list](codenames/codenames_words.txt)
