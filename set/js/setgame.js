@@ -299,7 +299,7 @@ function uncheckAll(){
     
     for(i=0;i<3;i++){
       img = document.createElement('img');
-      img.setAttribute("src",'image/'+c[i]+'.jpg')
+      img.setAttribute("src",'images/'+c[i]+'.jpg')
       
 	  var td = document.createElement('td');
 	  td.appendChild(img);
