@@ -8,5 +8,7 @@
 
 [say anything](sayanything)
 
+[set](set)
+
 ## Files
 [codenames word list](codenames/codenames_words.txt)

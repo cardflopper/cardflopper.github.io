@@ -1,0 +1,90 @@
+<html>
+
+  <head>
+    
+    <style>
+	table{
+	  margin:0 auto;border:1px solid black;
+	}
+	label{display:block;}
+	</style>
+    <script src="js/setgame.js"></script>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui">
+  </head>
+
+
+  <body onload="initGame()" style="background-color:wheat;text-align:center">
+  
+   <img src="images/logo.jpg"/>
+  
+   <h1>Board</h1>
+  
+    
+	  <table >
+	    <tr>
+		  <td id="0" style="text-align:center">
+		    <label  for="c00"><img src="images/back.jpg"></label>
+		    <input type="checkbox" id="c00" onclick="clicked(0)"/>
+		  </td>
+		  <td id="1" style="text-align:center">
+		    <label  for="c01"><img src="images/back.jpg"></label>
+		    <input type="checkbox" id="c01" onclick="clicked(1)"/>
+		  </td>
+		  <td id="2"  style="text-align:center">
+		    <label  for="c02"><img src="images/back.jpg"></label>
+		    <input type="checkbox" id="c02" onclick="clicked(2)"/>
+		  </td>
+		  <td id="3" style="text-align:center">
+		    <label  for="c03"><img src="images/back.jpg"></label>
+		    <input type="checkbox" id="c03" onclick="clicked(3)"/>
+		  </td>
+		</tr>
+		<tr>
+		  <td id="4" style="text-align:center">
+		    <label  for="c10"><img src="images/back.jpg"></label>
+		    <input type="checkbox" id="c10" onclick="clicked(4)"/>
+		  </td>
+		  <td id="5"  style="text-align:center">
+		    <label  for="c11"><img src="images/back.jpg"></label>
+		    <input type="checkbox" id="c11" onclick="clicked(5)"/>
+		  </td>
+		  <td id="6" style="text-align:center">
+		    <label  for="c12"><img src="images/back.jpg"></label>
+		    <input type="checkbox" id="c12" onclick="clicked(6)"/>
+		  </td>
+		  <td id="7" style="text-align:center">
+		    <label  for="c13"><img src="images/back.jpg"></label>
+		    <input type="checkbox" id="c13" onclick="clicked(7)"/>
+		  </td>
+		</tr>
+		<tr>
+		  <td id="8" style="text-align:center">
+		    <label  for="c20"><img src="images/back.jpg"></label>
+		    <input type="checkbox" id="c20" onclick="clicked(8)"/>
+		  </td>
+		  <td id="9" style="text-align:center">
+		    <label  for="c21"><img src="images/back.jpg"></label>
+		    <input type="checkbox" id="c21" onclick="clicked(9)"/>
+		  </td>
+		  <td id="10" style="text-align:center">
+		    <label  for="c22"><img src="images/back.jpg"></label>
+		    <input type="checkbox" id="c22" onclick="clicked(10)"/>
+		  </td>
+		  <td id="11" style="text-align:center">
+		    <label  for="c23"><img src="images/back.jpg"></label>
+		    <input type="checkbox" id="c23" onclick="clicked(11)"/>
+		  </td>
+		</tr>
+	  </table>
+	
+	
+	<h1>sets found</h1>
+	
+	<table id="found">
+	<!-- filled with found sets as the game progresses -->
+	
+	
+	</table>
+  </body>
+
+</html>
