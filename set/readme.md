@@ -1,3 +1,5 @@
 javascript version of the game "SET"
 
-last modified july 29 2018
+update version, complete rewrite
+
+last modified aug 28 2018
