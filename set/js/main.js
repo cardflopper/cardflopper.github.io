@@ -38,6 +38,9 @@ function createDeck() {
 }
 
 function drawCards(number = 12, test = false) {
+  if (number > deck.length) {
+    throw Error("trying to draw more cards than are in the deck");
+  }
   let s = new Set();
   do {
     s.add(deck[Math.floor(Math.random() * deck.length)]);
