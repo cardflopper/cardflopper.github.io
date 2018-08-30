@@ -4,11 +4,11 @@
 
 ## Play
 
-[codenames](codenames)
+[codenames](codenames): a board replacement for Codenames (base game)
 
-[say anything](sayanything)
+[say anything](sayanything): a simple question picker for the party game "Say Anything"
 
-[set](set)
+[set](set): the classic card game using react
 
 ## Files
 [codenames word list](codenames/codenames_words.txt)
