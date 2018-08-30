@@ -1,6 +1,6 @@
 ## Links
 
-**[boardgamegeek profile]**(https://www.boardgamegeek.com/user/cardflopper)
+[**boardgamegeek profile**](https://www.boardgamegeek.com/user/cardflopper)
 
 ## Play
 
