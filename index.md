@@ -6,7 +6,7 @@
 
 [**Codenames Table Replacer**](codenames): use a tablet/phone to replace the board, features words from the base game
 
-[**Martain Dice**](set): the dice game using ReactJS
+[**Martain Dice**](martiandice): the dice game using ReactJS
 
 [**Say Anything Question Selector**](sayanything): a simple question picker for this party game
 
