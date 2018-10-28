@@ -12,5 +12,8 @@
 
 [**SET Game**](set): the classic card game using ReactJS
 
+[**Zombie Dice**](zombiedice): the brain-eating dice game using ReactJS
+
 ## Files
 [**codenames word list**](codenames/codenames_words.txt): All 400 words from the Codenames base game 
+
