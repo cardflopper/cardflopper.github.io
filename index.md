@@ -6,6 +6,8 @@
 
 [**Codenames Table Replacer**](codenames): use a tablet/phone to replace the board, features words from the base game
 
+[**Crosstalk card generator**](crosstalk): replace the deck with your phone, cards generated exactly as in the game
+
 [**Martian Dice**](martiandice): the fast playing dice game using ReactJS
 
 [**Say Anything Question Selector**](sayanything): a simple question picker for this party game
