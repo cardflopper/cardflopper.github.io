@@ -10,6 +10,8 @@
 
 [**Martian Dice**](martiandice): the fast playing dice game using ReactJS
 
+[**Qwixx dice roller**](qwixx): generates dice rolls and combinations easily
+
 [**Say Anything Question Selector**](sayanything): a simple question picker for this party game
 
 [**SET Game**](set): the classic card game using ReactJS
