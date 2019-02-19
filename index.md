@@ -6,6 +6,8 @@
 
 [**Codenames Table Replacer**](codenames): use a tablet/phone to replace the board, features words from the base game
 
+[**Colossal Arena Creature Selector**](colossalarena): randomly selects the 8 creatures to use during your game
+
 [**Crosstalk card generator**](crosstalk): replace the deck with your phone, cards generated exactly as in the game
 
 [**Martian Dice**](martiandice): the fast playing dice game using ReactJS
