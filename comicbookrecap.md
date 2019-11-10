@@ -10,4 +10,4 @@
 
 [**Red Sonja (2019)**](https://docs.google.com/document/d/e/2PACX-1vRLXGLv94p6rLdPjF5CcjU9aO9AQLtVNtV-WqNOHYOMo8gh_IARpH7xnKqeHt4XmbD6cc1TGz8kJ0yx/pub)
 
-[**Self/Made**](https://docs.google.com/document/d/e/2PACX-1vTvz8kjv_YBUBHfzKPngV2_swJMoalGFT-dPM1nGN09GZybd6on23Gtf6Cf_CKgk4Y5D_p9R5gyWTfn/pub)
+[**Self / Made**](https://docs.google.com/document/d/e/2PACX-1vTvz8kjv_YBUBHfzKPngV2_swJMoalGFT-dPM1nGN09GZybd6on23Gtf6Cf_CKgk4Y5D_p9R5gyWTfn/pub)
