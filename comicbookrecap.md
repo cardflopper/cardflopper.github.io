@@ -4,6 +4,8 @@
 
 [**Daredevil (2019)**](https://docs.google.com/document/d/e/2PACX-1vSQCm7OjN-xPBJYmeTDUp5_5kFSXJ0-MwdaySUv-OMBXuutYkUekRJ5GuJf5PuXgeoLopX56ukyJT7m/pub)
 
+[**Flavor**](https://docs.google.com/document/d/e/2PACX-1vTdiPO-GDniY2zkSFBF7CVpMMgjnbv0vxlumnJhVtL8Y__4SduY-xoOibZjYtf7J7QX5hb8r26e-m3w/pub)
+
 [**Gideon Falls**](https://docs.google.com/document/d/e/2PACX-1vQ_vnTsLqkLltkLkoG8rf3_j9XRqTi-zswMDIIrLYQCywv5eBlGHFV9WqV1X6xPuzfECxdjBWp_8enw/pub)
 
 [**Oblivion Song**](https://docs.google.com/document/d/e/2PACX-1vRS9fb66joN-wWInM5PV7DoC-eU91nvVZK4sTObqv6FQWptJm7xAZhsD7H2mNzDV_UQvh-yUG2ShNiz/pub)
