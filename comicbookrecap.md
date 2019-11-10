@@ -14,6 +14,8 @@
 
 [**Hawkman (2018)**](https://docs.google.com/document/d/e/2PACX-1vRhE-yGKud-gnJ1_FRVN9eGOjqpgtgpr2tInYajqCWddDuCCMbXIA-hRqIlySKk1IB7_F7G7mi4wHHD/pub)
 
+[**The Lost City Explorers**](https://docs.google.com/document/d/e/2PACX-1vS_TOUr6KXe1oiwlJR1Cd_uyTdNQib8JThV1d4vQjjtF23gROB69Hw6cOpdjF2Fdy9mTutFFsLr9yyH/pub)
+
 [**Oblivion Song**](https://docs.google.com/document/d/e/2PACX-1vRS9fb66joN-wWInM5PV7DoC-eU91nvVZK4sTObqv6FQWptJm7xAZhsD7H2mNzDV_UQvh-yUG2ShNiz/pub)
 
 [**Red Sonja (2019)**](https://docs.google.com/document/d/e/2PACX-1vRLXGLv94p6rLdPjF5CcjU9aO9AQLtVNtV-WqNOHYOMo8gh_IARpH7xnKqeHt4XmbD6cc1TGz8kJ0yx/pub)
