@@ -18,6 +18,8 @@
 
 [**Gideon Falls**](https://docs.google.com/document/d/e/2PACX-1vQ_vnTsLqkLltkLkoG8rf3_j9XRqTi-zswMDIIrLYQCywv5eBlGHFV9WqV1X6xPuzfECxdjBWp_8enw/pub)
 
+[**The Girl in the Bay**](https://docs.google.com/document/d/e/2PACX-1vRdiEn5z4rju87cgE3NKFkBQrpVbD7YAvouly5LAoMeyanDk0NDAIilo06v5c5-0K3ohPiudahxfjAg/pub)
+
 [**Hawkman (2018)**](https://docs.google.com/document/d/e/2PACX-1vRhE-yGKud-gnJ1_FRVN9eGOjqpgtgpr2tInYajqCWddDuCCMbXIA-hRqIlySKk1IB7_F7G7mi4wHHD/pub)
 
 [**The Lost City Explorers**](https://docs.google.com/document/d/e/2PACX-1vS_TOUr6KXe1oiwlJR1Cd_uyTdNQib8JThV1d4vQjjtF23gROB69Hw6cOpdjF2Fdy9mTutFFsLr9yyH/pub)
