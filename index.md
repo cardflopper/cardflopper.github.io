@@ -4,6 +4,8 @@
 
 ## Play
 
+[**7 Wonders Duel Tools**](7wd): tools to help with 7 wonders Duel. First is a progress token randomizer
+
 [**Codenames table replacer**](codenames): use a tablet/phone to replace the board, features words from the base game
 
 [**Colossal Arena creature selector**](colossalarena): randomly selects the 8 creatures to use during your game
