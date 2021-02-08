@@ -20,6 +20,8 @@
 
 [**SET Game**](set): the classic card game using ReactJS
 
+[**Targi Resource Tool**](targi): helps track resources
+
 [**Zombie Dice**](zombiedice): the brain-eating dice game using ReactJS
 
 ## Files
