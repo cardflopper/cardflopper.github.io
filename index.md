@@ -18,6 +18,8 @@
 
 [**Say Anything question selector**](sayanything): a simple question picker for this party game
 
+[**Second Chance deck replacer**](secondchance): replaces the draw deck for this pen-and-paper game[
+
 [**SET Game**](set): the classic card game using ReactJS
 
 [**Targi Resource Tool**](targi): helps track resources
